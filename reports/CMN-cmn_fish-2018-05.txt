@@ -1,0 +1,114 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 965
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-21 ; Times: 9
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-24 ; Times: 6
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 7
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-31 ; Times: 18
+	Date: 2018-05-30 ; Times: 1
+	Date: 2018-05-15 ; Times: 8
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "distance(location,geopoint(36.994023142,-90.182407438))&lt;9468" ; Times: 2
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "Tomicodon petersii" ; Times: 3
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "typhlichthys" ; Times: 2
+	Query: "MBU" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.1227255470084))&lt;8669" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "western sahara" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "Apogon atricaudus" ; Times: 7
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "gbifdatasetid:dc3bfd08-0141-45ae-9603-91ac50cdc33b" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "vntype:specimen preparations:all" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "distance(location,geopoint(41.9258506977145,-83.3063313274999))&lt;5625" ; Times: 2
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "Apogon atradorsatus" ; Times: 3
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "Apogon retrosella" ; Times: 8
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 2
+	Query: "barbus cercops" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 554
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphias" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "mountain lake biological station" ; Times: 1
+
+
+End of report.
