@@ -1,0 +1,133 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 882
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 40
+	Country: China ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-22 ; Times: 11
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 13
+	Date: 2018-03-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;fort clark&#34;" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 4
+	Query: "latimeria" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Baptizing" ; Times: 1
+	Query: "recordedby:Tait" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Salvelinus fontinalis mappable:1" ; Times: 1
+	Query: "catatonk" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "county:&#34;montour&#34; stateprovince:&#34;pennsylvania&#34; mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "&#34;las moras&#34;" ; Times: 3
+	Query: "recordedby:Verner" ; Times: 1
+	Query: "barbus peloponnesius" ; Times: 1
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "Cichlasoma bimaculatum 1" ; Times: 1
+	Query: "Elassoma okefenokee" ; Times: 1
+	Query: "Lepidosiren paradoxa" ; Times: 5
+	Query: "Novumbra hubbsi" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 2
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "Trachelochismus melobesia" ; Times: 1
+	Query: "Labeo cylindricus" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 1
+	Query: "recordedby:Legendre" ; Times: 1
+	Query: "Hoplosternum littorale 1" ; Times: 1
+	Query: "Antimora rostrata" ; Times: 3
+	Query: "Monopterus albus 1" ; Times: 1
+	Query: "haemulon steindachneri" ; Times: 1
+	Query: "Cichlasoma istlanum" ; Times: 2
+	Query: "Hybognathus hankinsoni" ; Times: 1
+	Query: "phalloceros caudimaculatus" ; Times: 1
+	Query: "Labeo altivelis" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Gyrinocheilus aymonieri" ; Times: 2
+	Query: "barbus meridionalis" ; Times: 1
+	Query: "Hyphessobrycon bifasciatus" ; Times: 1
+	Query: "Fish San Carlos Bay Florida" ; Times: 4
+	Query: "noturus miurus" ; Times: 1
+	Query: "artedius fenestralis" ; Times: 1
+	Query: "locality:Fort Clark county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:Las Moras county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:Mexico recordedby:White" ; Times: 1
+	Query: "Oreochromis aureus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1284 download events in this period)
+Total number of records downloaded: 480
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "israel" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "recordedby:Verner" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 2
+	Query: "artedius fenestralis" ; Times: 1
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
