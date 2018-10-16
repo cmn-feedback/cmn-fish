@@ -1,0 +1,208 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 1483
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 20
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Montenegro ; Times: 1
+	Country: United States ; Times: 52
+	Country: Sweden ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 6
+	Country: United Kingdom ; Times: 13
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 10
+	Date: 2018-04-23 ; Times: 5
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 7
+	Date: 2018-04-24 ; Times: 21
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 4
+	Date: 2018-04-06 ; Times: 10
+	Date: 2018-04-09 ; Times: 7
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-12 ; Times: 17
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-18 ; Times: 6
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Prosopium williamsoni) country:United States mappable:1" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "lepidomeda vittata stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "mormyrops" ; Times: 1
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "&#34;gobio gobio&#34;" ; Times: 1
+	Query: "rio pesqueria" ; Times: 2
+	Query: "pomatoschistus" ; Times: 1
+	Query: "recordedby:Mowat" ; Times: 5
+	Query: "&#34;Carassius gibelio&#34;" ; Times: 1
+	Query: "oncorhynchus apache stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "apleurogramma" ; Times: 2
+	Query: "pristobrycon" ; Times: 2
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "salmo salar" ; Times: 3
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "Misgurnus anguillicaudatus" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "padogobius" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "Boreogadus saida" ; Times: 1
+	Query: "gila robusta stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "sphyrna zygaena" ; Times: 1
+	Query: "stingray" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "cyprinodon macularius stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Sebastes helvomaculatus" ; Times: 3
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "pristobrycon aureus" ; Times: 1
+	Query: "Micropterus floridanus" ; Times: 3
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "Galiano Island" ; Times: 8
+	Query: "sebastes helvomaculatus" ; Times: 2
+	Query: "Rhinoliparis barbulifer" ; Times: 2
+	Query: "Ophichthus triserialis" ; Times: 1
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "knipowitschia" ; Times: 1
+	Query: "brook trout" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 3
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 8
+	Query: "scientificname:(Fundulus diaphanus) country:United States mappable:1" ; Times: 1
+	Query: "petrocephalus" ; Times: 1
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "Channa argus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1359 download events in this period)
+Total number of records downloaded: 4398
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 10
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "recordedby:Mowat" ; Times: 1
+	Query: "distance(location,geopoint(68.66109,-149.37047))&lt;50000" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Galiano Island" ; Times: 2
+	Query: "distance(location,geopoint(68.62956,-149.61051))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "Channa marulius" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(68.66975,-149.14302))&lt;50000" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+
+
+End of report.
