@@ -1,0 +1,95 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 431
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Serbia ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 15
+	Country: China ; Times: 6
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-28 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-23 ; Times: 5
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 4
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "paucidens" ; Times: 1
+	Query: "Gambusia gaigei" ; Times: 1
+	Query: "country:&#34;Serbia&#34;" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "oreochromis amphimelas" ; Times: 3
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "mummy" ; Times: 5
+	Query: "locality:flour lake" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "clupeonella" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "sphoeroides pachygaster" ; Times: 2
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "Hyphessobrycon reticulatus" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "rasbora elegans" ; Times: 2
+	Query: "Nicholsina denticulata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 977 download events in this period)
+Total number of records downloaded: 646
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Nicholsina denticulata" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
