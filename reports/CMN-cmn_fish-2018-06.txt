@@ -1,0 +1,188 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 2045
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 204
+	Country: China ; Times: 2
+	Country: Kuwait ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-21 ; Times: 90
+	Date: 2018-06-20 ; Times: 30
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 48
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "stichaeus punctatus" ; Times: 1
+	Query: "distance(location,geopoint(44.9652418541295,-83.2617639840543))&lt;22285" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "wolverine" ; Times: 1
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "Naso unicornis" ; Times: 2
+	Query: "acipenser nudiventris" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Puntius lineatus" ; Times: 1
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "distance(location,geopoint(36.9940289363794,-90.1823658933356))&lt;23608" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "frog northwest" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Vipera" ; Times: 3
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "lethenteron" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "grizzly bear" ; Times: 5
+	Query: "&#34;labeo rosae&#34;" ; Times: 1
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "lethenteron alaskense" ; Times: 2
+	Query: "Wolves" ; Times: 1
+	Query: "boleophthalmus" ; Times: 1
+	Query: "Oreochromis amphimelas" ; Times: 1
+	Query: "stateprovince:&#34;ID&#34;" ; Times: 1
+	Query: "psychrolutes" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Prionurus laticlavius mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "dwh 17" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Gila bicolor" ; Times: 4
+	Query: "Lethenteron alaskense" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "gbifdatasetid:dc3bfd08-0141-45ae-9603-91ac50cdc33b" ; Times: 1
+	Query: "Lethenteron" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "mapache" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Prionurus punctatus mappable:1" ; Times: 2
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "distance(location,geopoint(45.1259018461666,-83.2181097176279))&lt;8576" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1169 download events in this period)
+Total number of records downloaded: 254
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "wolverine" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "grizzly bear" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "lemming" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "puffin" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "lethenteron alaskense" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "pterois volitans" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
