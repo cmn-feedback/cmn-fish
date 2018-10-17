@@ -1,0 +1,153 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 7798
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 68
+	Country: Germany ; Times: 8
+	Country: Belgium ; Times: 16
+	Country: China ; Times: 3
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 36
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-06 ; Times: 9
+	Date: 2018-09-21 ; Times: 6
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-19 ; Times: 11
+	Date: 2018-09-20 ; Times: 7
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Diaphus theta" ; Times: 1
+	Query: "lamna nasus" ; Times: 6
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;New Brunswick&#34; hastissue:1" ; Times: 3
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Hemigrammus ocellifer" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Sebastes flavidus" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "sharks" ; Times: 2
+	Query: "&#34;little river&#34; gasterosteus" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 3
+	Query: "mummy" ; Times: 5
+	Query: "scientificname:(Novumbra hubbsi) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Melanostomias bartonbeani" ; Times: 1
+	Query: "Grammatostomias flagellibarba" ; Times: 1
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+	Query: "coryogalops" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 2
+	Query: "Bathophilus vaillanti" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "Ceratoscopelus townsendi" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "gbifdatasetid:dc3bfd08-0141-45ae-9603-91ac50cdc33b" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "scientificname:(Catostomus santaanae) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 1
+	Query: "dolly varden" ; Times: 2
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Wolverine" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "falkner" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "Lampanyctus macdonaldi" ; Times: 2
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 846 download events in this period)
+Total number of records downloaded: 673
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "river otter" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "grizzly bear" ; Times: 3
+
+
+End of report.
