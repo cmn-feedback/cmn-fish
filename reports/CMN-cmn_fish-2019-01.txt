@@ -1,0 +1,148 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 3977
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 118
+	Country: United States ; Times: 19
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 15
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-30 ; Times: 58
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 6
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-31 ; Times: 47
+	Date: 2019-01-23 ; Times: 13
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Bathygobius lineatus" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "Trigloporus lastoviza mappable:1" ; Times: 1
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Acipenser sturio mappable:1" ; Times: 4
+	Query: "oncorhynchus chrysogaster" ; Times: 1
+	Query: "Atherina hepsetus mappable:1" ; Times: 4
+	Query: "Nerophis ophidion mappable:1" ; Times: 2
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "Synodus saurus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 8
+	Query: "Atherina boyeri mappable:1" ; Times: 4
+	Query: "Ophisurus serpens mappable:1" ; Times: 2
+	Query: "Chirolophis ascanii mappable:1" ; Times: 4
+	Query: "Coryphoblennius galerita mappable:1" ; Times: 4
+	Query: "Paraplagusia sinerama" ; Times: 1
+	Query: "rhina" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "Spicara smaris mappable:1" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 2
+	Query: "Engraulis anchoita" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "Trachinus draco mappable:1" ; Times: 1
+	Query: "raja rhina" ; Times: 3
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "recordedby:farrell year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "Aidablennius sphynx mappable:1" ; Times: 4
+	Query: "hucho hucho" ; Times: 1
+	Query: "Parablennius incognitus mappable:1" ; Times: 2
+	Query: "Paraplagusia longirostris" ; Times: 1
+	Query: "Gobius paganellus mappable:1" ; Times: 3
+	Query: "Parablennius sanguinolentus mappable:1" ; Times: 2
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Sciaena umbra mappable:1" ; Times: 2
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Centrolophus niger mappable:1" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "Pomatoschistus microps mappable:1" ; Times: 2
+	Query: "Lepadogaster lepadogaster mappable:1" ; Times: 2
+	Query: "anoxypristis" ; Times: 2
+	Query: "(drayton)" ; Times: 1
+	Query: "Hippocampus guttulatus mappable:1" ; Times: 3
+	Query: "Diplecogaster bimaculata mappable:1" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Rajella fyllae mappable:1" ; Times: 1
+	Query: "&#34;Peyton&#34; AND &#34;Island&#34; NOT &#34;Alaska&#34;" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Ciliata mustela mappable:1" ; Times: 4
+	Query: "Monochirus hispidus mappable:1" ; Times: 2
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "bowhead" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "salmo letnica" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 2
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "Syngnathus rostellatus mappable:1" ; Times: 1
+	Query: "Sebastes saxicola" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "Pomatoschistus" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "Diplodus sargus mappable:1" ; Times: 2
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "Lamna nasus mappable:1" ; Times: 2
+	Query: "Cottus klamathensis" ; Times: 1
+	Query: "Isla San Martin NOT ICH" ; Times: 1
+	Query: "wolves" ; Times: 2
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Gobiusculus flavescens mappable:1" ; Times: 3
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 962 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Paraplagusia sinerama" ; Times: 1
+	Query: "oncorhynchus chrysogaster" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cottus klamathensis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
