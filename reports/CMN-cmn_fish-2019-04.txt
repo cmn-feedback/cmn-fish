@@ -1,0 +1,179 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 5760
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 2
+	Country: Brazil ; Times: 76
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 6
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Norway ; Times: 32
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 9
+	Date: 2019-04-19 ; Times: 72
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 6
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-02 ; Times: 24
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-22 ; Times: 6
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 2
+	Date: 2019-04-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias" ; Times: 1
+	Query: "SCARUS perrico" ; Times: 3
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Cynoscion virescens mappable:1" ; Times: 2
+	Query: "Macrodon ancylodon mappable:1" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "Odontognathus mucronatus mappable:1" ; Times: 2
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "queen lake" ; Times: 1
+	Query: "oreochromis niloticus" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Synodontis afrofischeri" ; Times: 1
+	Query: "Coralliozetus boehlkei mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "Isopisthus parvipinnis mappable:1" ; Times: 2
+	Query: "catalognumber:1980 institutioncode:CMN" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "carcharhinus limbatus" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "nicholsina denticulata" ; Times: 1
+	Query: "&#34;Sander vitreus&#34;" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "Sander vitreus" ; Times: 1
+	Query: "cmn E924" ; Times: 1
+	Query: "Ayres Eagle" ; Times: 4
+	Query: "Stellifer brasiliensis mappable:1" ; Times: 2
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "Cathorops spixii mappable:1" ; Times: 2
+	Query: "Pellona harroweri mappable:1" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Neoclinus bryope mappable:1" ; Times: 1
+	Query: "poromitra crassiceps" ; Times: 1
+	Query: "Micromesistius poutassou mappable:1" ; Times: 5
+	Query: "Ophioscion punctatissimus mappable:1" ; Times: 2
+	Query: "pamir" ; Times: 2
+	Query: "Lycengraulis grossidens mappable:1" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "Garra rufa" ; Times: 1
+	Query: "Genidens genidens mappable:1" ; Times: 2
+	Query: "Nebris microps mappable:1" ; Times: 2
+	Query: "Coralliozetus boehlkei" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "&#34;scotstown&#34;" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "locality:queen lake" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Neoclinus bryope" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 6
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "Hyphessobrycon bifasciatus mappable:1" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "Nicholsina denticulata" ; Times: 4
+	Query: "Atherinella brasiliensis mappable:1" ; Times: 2
+	Query: "flavicauda" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Amblyraja radiata mappable:1" ; Times: 2
+	Query: "catalognumber:1980-1154.1 institutioncode:CMN" ; Times: 2
+	Query: "badakshan" ; Times: 1
+	Query: "Pickering institutioncode:CMN" ; Times: 2
+	Query: "Porogadus miles" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "zanobatus" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "&#34;point rock&#34;" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "&#34;sciurus&#34; institutioncode:CMN" ; Times: 2
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Nothobranchius guentheri" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "locality:queen lake year &gt;= 1915 year &lt;= 1930" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1263 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 5
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "&#34;seep&#34; (&#34;virginia&#34; OR &#34;tennessee&#34; OR &#34;north carolina&#34; OR &#34;georgia&#34; OR &#34;south carolina&#34;)" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+
+
+End of report.
