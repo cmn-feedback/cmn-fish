@@ -1,0 +1,105 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 607
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 43
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 11
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-10 ; Times: 8
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Lama" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "Raja rhina" ; Times: 5
+	Query: "Hoplosternum littorale" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "Pangio kuhlii" ; Times: 1
+	Query: "Raja binoculata" ; Times: 4
+	Query: "Gillet" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "penney labrador" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "Parabramis pekinensis" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "Island AND Blunt" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "Catostomus santaanae" ; Times: 3
+	Query: "soeurs" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "Caranx caballus" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology" ; Times: 1
+	Query: "Hypomesus nipponensis" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "Bathyraja" ; Times: 1
+	Query: "scientificname:(Labidesthes vanhyningi) country:United States mappable:1" ; Times: 1
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 3
+	Query: "acipenser oxyrinchus" ; Times: 2
+	Query: "0453" ; Times: 1
+	Query: "Collins AND Island AND 1978" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Lamna" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 985 download events in this period)
+Total number of records downloaded: 117
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+
+
+End of report.
