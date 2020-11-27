@@ -1,0 +1,266 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 324
+Number of records retrieved in searches: 2407
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 5
+	Country: France ; Times: 2
+	Country: United States ; Times: 72
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 192
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 4
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-21 ; Times: 26
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 98
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-23 ; Times: 108
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 25
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 10
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pachychilon pictum" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "Orectolobus ornatus" ; Times: 2
+	Query: "Loxodon" ; Times: 1
+	Query: "Apristurus profundorum" ; Times: 2
+	Query: "locality:irvine stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "Rhizoprionodon taylori" ; Times: 2
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "Sander marinus" ; Times: 1
+	Query: "Malacoraja senta" ; Times: 2
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "aphos" ; Times: 1
+	Query: "Urotrygon munda" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "Sphyrna corona" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Pseudochondrostoma polylepis" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "T-1484" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Negaprion acutidens" ; Times: 2
+	Query: "Lepomis punctatus mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Pelecus cultratus" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "Cantherhines dumerilii mappable:1" ; Times: 2
+	Query: "Narcine vermiculatus" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "Mustelus manazo" ; Times: 2
+	Query: "Alburnus chalcoides" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "Eremichthys acros" ; Times: 1
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Diplobatis ommata" ; Times: 2
+	Query: "Oncorhynchus mykiss mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Gymnura afuerae" ; Times: 2
+	Query: "Gymnocephalus baloni" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "Moxostoma hubbsi mappable:1" ; Times: 1
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Rajella bathyphila" ; Times: 2
+	Query: "Myliobatis australis" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Abramis brama" ; Times: 1
+	Query: "Raja rhina" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Umbra limi mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "Gammarus" ; Times: 1
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "Mustelus lunulatus" ; Times: 2
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Harriotta raleighana" ; Times: 1
+	Query: "Urotrygon peruanus" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "Carcharhinus sorrah" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Bathyraja" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Chiloscyllium arabicum" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Rhinichthys cataractae smithi mappable:1" ; Times: 1
+	Query: "Paramonacanthus oblongus mappable:1" ; Times: 2
+	Query: "sprattus fuegensis" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Discopyge tschudii" ; Times: 2
+	Query: "Alburnus tarichi" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Zanobatus schoenleinii" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Mus AND CLemente Island" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Centrophorus atromarginatus" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "notropis blennius" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Mustelus dorsalis" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Malacoraja spinacidermis" ; Times: 1
+	Query: "Paramonacanthus choirocephalus mappable:1" ; Times: 2
+	Query: "Anoxypristis cuspidata" ; Times: 2
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "Gymnura australis" ; Times: 2
+	Query: "Hemiscyllium ocellatum" ; Times: 2
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Somniosus microcephalus" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Carcharhinus galapagensis" ; Times: 2
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Breviraja marklei" ; Times: 1
+	Query: "Glyphis gangeticus" ; Times: 2
+	Query: "Amblyraja jenseni" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "country:&#34;belarus&#34;" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "Gambusia affinis mappable:1 year&gt;=1970 year&lt;=2000 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "palustris Potentilla" ; Times: 3
+	Query: "vinciguerra" ; Times: 3
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "zoological survey of india" ; Times: 2
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Zearaja chilensis" ; Times: 2
+	Query: "amarus Rhodeus" ; Times: 1
+	Query: "Amphiprioninae" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "bothus constellatus" ; Times: 1
+	Query: "asper Cottus" ; Times: 4
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "Urobatis concentricus" ; Times: 2
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Myliobatis peruvianus" ; Times: 2
+	Query: "Raja asterias" ; Times: 2
+	Query: "Centrophorus moluccensis" ; Times: 2
+	Query: "Coelacanthiformes" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Rajella lintea" ; Times: 2
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "Hydrolagus affinis" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "Rajella fyllae" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Centroscyllium fabricii" ; Times: 1
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "zooarchaeology" ; Times: 2
+	Query: "Rhinochimaera atlantica" ; Times: 2
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Carcharhinus dussumieri" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "&#34;Cheilopogon cyanopterus&#34;" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 2
+	Query: "Vimba melanops" ; Times: 1
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Urotrygon aspidura" ; Times: 2
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "Urotrygon chilensis" ; Times: 2
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Sutorectus tentaculatus" ; Times: 2
+	Query: "Alopias superciliosus" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
