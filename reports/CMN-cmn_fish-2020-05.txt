@@ -1,0 +1,103 @@
+Report for Institution Code CMN, Resource cmn_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 205
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Brazil ; Times: 2
+	Country: Iraq ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 17
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 9
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 8
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "Gymnothorax castaneus" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "county:&#34;san cristobal&#34; stateprovince:&#34;Galapagos&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Gymnothorax panamensis" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Chaenogobius isaza" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 5
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "echiichthys vipera" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 2
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Columbia county ny" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Yemen" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "inegocia japonica" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "muraena argus" ; Times: 1
+	Query: "Sufflamen fraenatum mappable:1" ; Times: 1
+	Query: "Echidna nocturna" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "Gastrocyathus gracilis" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1106 download events in this period)
+Total number of records downloaded: 2068
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
